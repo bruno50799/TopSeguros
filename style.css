@@ -1,0 +1,20 @@
+body{
+    background: rgb(240, 240, 240);
+    color: rgb(21, 91, 21);
+    font-family:'Raleway',sans-serif ;
+
+    
+}
+
+h1{
+    text-align: center;
+    width:25%;
+}
+
+.colaboradores{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
